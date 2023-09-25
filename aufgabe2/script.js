@@ -1,3 +1,4 @@
+// Menu 
 document.addEventListener("DOMContentLoaded", function() {
     fetch('menu.html')
         .then(response => response.text())
@@ -7,4 +8,4 @@ document.addEventListener("DOMContentLoaded", function() {
         .catch(error => {
             console.error('Fehler beim Laden des Menüs:', error)
         })
-})
+}) 

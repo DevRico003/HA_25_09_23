@@ -1,5 +1,5 @@
 // Lambda URL
-const lambdaUrl = 'https://u0allnk.lambda-url.eu-central-1.on.aws/' // URL unkenntlich gemacht
+const lambdaUrl = 'https://0allnk.lambda-url.eu-central-1.on.aws/' // URL unkenntlich gemacht
 
 async function fetchLambdaData() {
     try {
